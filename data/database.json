@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "UGvhlkmgN",
+      "uuid": "53e544b4-a73a-45c2-879e-4ddbb721c030",
+      "firstName": "Ilkhomjon",
+      "lastName": "Shamidinov",
+      "username": "inspirationjon",
+      "password": "$2a$10$oYcEEajlb5N8/atEHCpKJ.TGFnwo1EWF.O0uDvsSy07VZL069m7ja",
+      "balance": 0,
+      "createdAt": "2022-01-19T00:12:44.179Z",
+      "modifiedAt": "2022-01-19T00:12:44.179Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "_PSKqSeqb",
+      "uuid": "e85c056b-372f-465a-8d52-e13a1c211404",
+      "userId": "UGvhlkmgN",
+      "bankName": "Sber bank",
+      "accountNumber": "324324234234",
+      "routingNumber": "232332323",
+      "isDeleted": false,
+      "createdAt": "2022-01-19T00:13:46.768Z",
+      "modifiedAt": "2022-01-19T00:13:46.768Z"
     }
   ],
   "transactions": [
@@ -10029,6 +10051,15 @@
       "transactionId": "2BHqb4lfWmiA",
       "createdAt": "2019-11-07T07:03:42.068Z",
       "modifiedAt": "2020-05-21T06:06:10.434Z"
+    },
+    {
+      "id": "T9Ou8axAe",
+      "uuid": "5ea2ca3a-7b56-4801-98ae-80d63fbebc8a",
+      "content": "rgeg",
+      "userId": "UGvhlkmgN",
+      "transactionId": "Ke0eaLoOG8Dg",
+      "createdAt": "2022-01-19T00:14:07.949Z",
+      "modifiedAt": "2022-01-19T00:14:07.949Z"
     }
   ],
   "notifications": [
@@ -10431,6 +10462,26 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
+    },
+    {
+      "id": "aMGDlT74iZ",
+      "uuid": "1ae60dc4-8259-4202-919d-b66f39cd9b1e",
+      "userId": "bDjUb4ir5O",
+      "transactionId": "Ke0eaLoOG8Dg",
+      "commentId": "T9Ou8axAe",
+      "isRead": false,
+      "createdAt": "2022-01-19T00:14:07.956Z",
+      "modifiedAt": "2022-01-19T00:14:07.956Z"
+    },
+    {
+      "id": "33SvOB5j-c",
+      "uuid": "542b0d27-b8d5-4e67-ab2f-fa7a8cc93f24",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "Ke0eaLoOG8Dg",
+      "commentId": "T9Ou8axAe",
+      "isRead": false,
+      "createdAt": "2022-01-19T00:14:07.961Z",
+      "modifiedAt": "2022-01-19T00:14:07.961Z"
     }
   ],
   "banktransfers": [
